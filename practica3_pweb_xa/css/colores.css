@@ -1,0 +1,16 @@
+    .nombre{
+    color: red; }
+   .Hexcompleto{
+    color: #00FF00; }
+   .Hexcorto{
+    color: #0F0; }
+   .rgb{
+    color: rgb(0,0,255); }
+   .rgba{
+    color: rgba(255,0,0,1); }
+   .hsl{
+    color: hsl(240,100%,50%); }
+   .hsla{
+    color: hsla(240,100%,50%,0.5);
+   }
+   

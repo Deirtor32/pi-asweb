@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    background-color: aquamarine; 
+}
+#uno{
+    font-family: 'Libre Franklin', sans-serif;
+}
+#cuatro{
+    font-family: 'Libre Franklin', sans-serif;
+}
+footer{
+    background-color: blueviolet;
+}
+.especial{color: blueviolet;}
+.conborde{border: 1px solid 1000;
+    border-collapse: collapse;}
+
+table.conborde th,
+table.conborde td{border: 1px solid *000;}

@@ -1,0 +1,21 @@
+.simple{
+    font-size: 16px;
+    color: #444;
+    text-align: justify;
+    -moz-column-count:4;
+    -moz-column-gap: 1em;
+    -webkit-column-count:4;
+    -webkit-column-gap: 1em;
+    }
+.simple2{
+    font-size: 16px;
+    color: #444;
+    text-align: justify;
+    -moz-column-count: 4;
+    -moz-column-gap: 1em;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 1em;
+    -moz-column-rule: 1px solid #222;
+    -webkit-column-rule: 1px solid #222;
+    }
+   
