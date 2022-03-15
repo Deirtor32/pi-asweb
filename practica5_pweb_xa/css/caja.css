@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    }
+#caja{
+        width: 280px;
+        padding-left: 80px;
+        padding-right: 20px;
+
+        border-width: 8px;
+        border-color: black;
+        border-style: dotted;
+        height: 100px;
+        
+        margin-top: 50px;
+        background-color: yellow;
+        color: green;
+}
